@@ -1,4 +1,4 @@
-/*
+/**
 	Демонстрация цикла For.
  */
 public class ForTest {

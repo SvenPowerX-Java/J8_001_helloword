@@ -1,3 +1,7 @@
+/**
+ * Первый пример.
+ * Example2 class.
+ */
 public class Example1 {
 //	Эта программа начинается с вызова main()
 public static void main(String[] args) {
