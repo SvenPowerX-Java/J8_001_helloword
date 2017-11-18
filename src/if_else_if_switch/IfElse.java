@@ -1,4 +1,4 @@
-package if_else_if;
+package if_else_if_switch;
 
 /**
  * if-else-if
