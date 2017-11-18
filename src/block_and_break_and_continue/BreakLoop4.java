@@ -1,4 +1,4 @@
-package block_and_break;
+package block_and_break_and_continue;
 
 /**
  * break для выхда из вложенных циклов
